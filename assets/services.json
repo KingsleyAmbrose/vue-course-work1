@@ -1,0 +1,106 @@
+[
+  
+  {
+    "id": 1,
+    "type": "classes",
+    "title": "Introduction to Business Studies",
+    "description": "Middlesex University",
+    "price": 30,
+    "area": "Judo",
+    "length": 30,
+    "orientation": "individual",
+    "rating": 3,
+    "author": {
+      "firstname": "Johnny",
+      "lastname": "Francis"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "John Francis",
+        "feedback": "what can I say...it was invigorating, I strongly recommend it"
+      }
+    ]
+  }, 
+  {
+    "id": 2,
+    "type": "activity",
+    "title": "Working with artworks",
+    "description": "fine arts",
+    "price": 45,
+    "area": "arts",
+    "length": 60,
+    "orientation": "individual",
+    "rating": 2,
+    "author": {
+      "firstname": "Alicia",
+      "lastname": "Stevens"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Alicia Stevens",
+        "feedback": "What can I say.....it's awesome"
+      },
+      {
+        "id": 2,
+        "name": "Summer Nunes",
+        "feedback": "it's a wonderful course"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "activity",
+    "title": "Maths club",
+    "description": "Calculus and equations solving",
+    "price": 20,
+    "area": "specials",
+    "length": 10,
+    "orientation": "individual",
+    "rating": 4,
+    "author": {
+      "firstname": "Earl",
+      "lastname": "Manny"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "John smith",
+        "feedback": "I enjoyed it"
+      },
+      {
+        "id": 2,
+        "name": "Jane smith",
+        "feedback": "value for your money"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "class",
+    "title": "Drama class ",
+    "description": "Stage and theatre",
+    "price": 17,
+    "area": "art",
+    "length": 40,
+    "orientation": "group",
+    "rating": 1,
+    "author": {
+      "firstname": "Tommy",
+      "lastname": "Livingston"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Michelle Fraap",
+        "feedback": "it prepares you for Hollywood....shakespeare would be proud"
+      },
+      {
+        "id": 2,
+        "name": "Devlin Jameson",
+        "feedback": "with the classes i think i'm ready for broadway"
+      }
+    ]
+  }
+]

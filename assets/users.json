@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "smith",
+      "email": "specialg@gmail.com",
+      "type": "sp",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "firstname": "Tommy",
+      "lastname": "Livingston",
+      "email": "yepa@gmail.com",
+      "type": "user",
+      "password": "password"
+
+    },
+    {
+      "id": 3,
+      "firstname": "johnny",
+      "lastname": "Francis",
+      "email": "jfrancis_lol@gmail.com",
+      "type": "user",
+      "password": "password"
+
+    }
+]
